@@ -1,5 +1,7 @@
 NS1='ns.wstest.abalos-zoey.online'
 NS2='james.ubuntu.sardinas.cf'
+
+
 LOOP_DELAY=5
 
 declare -a HOSTS=('124.6.181.12' '124.6.181.20')
